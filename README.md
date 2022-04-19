@@ -16,7 +16,7 @@ RF:-001 O sistema deve salvar o arquivo
 
 RF:-002 Sistema deve ter acesso a internet.
 
-RF:-003 O usuário deve ter instalado em sue computador o Python na versão 3.7 ou superior.
+RF:-003 O usuário deve ter instalado em seu computador o Python na versão 3.7 ou superior.
 
 
 # Regra de Negócio
