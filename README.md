@@ -2,7 +2,7 @@
 Projeto desenvolvido pelo aluno Matheus 
 <h1> BTCBitcoin</h1>
 
-Este site foi desenvolvido para monitorar o preço do bitcoin 24 horas por dia e tabém mostra a data  e o valor 
+Este site foi desenvolvido para monitorar o preço do bitcoin 24 horas por dia e também mostra a data  e o valor 
 e o Id.
 
 # Requisitos Funcinais do sistemas
